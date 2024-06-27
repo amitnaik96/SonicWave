@@ -40,7 +40,4 @@ Start client
 
 
 
-#### Backend development in progress!!
-
-
 
