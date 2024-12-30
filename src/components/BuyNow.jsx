@@ -60,7 +60,7 @@ const BuyNow = () => {
 
                             <div className="form-outline">
                                 <input  value={count} onChange={(e) => setCount(e.target.value)} type="number" />
-                                <label className="form-label" for="form1">Quantity</label>
+                                <label className="form-label" htmlFor="form1">Quantity</label>
                             </div>
 
                             <Button onClick={handleAdd} className="m-2" variant="success">+</Button>
