@@ -15,7 +15,7 @@ const Features = () => {
 
         <div className="col-lg-6 mx-auto py-3">
             <h1 className="fw-normal text-body-emphasis fs-5">Active Noise Cancellation (ANC)</h1>
-          <p className="lead mb-4 fs-5">:Say goodbye to distractions and immerse yourself in your audio with our ANC technology. Whether you're on a noisy commute or in a bustling office, ANC blocks out external sounds for uninterrupted enjoyment.</p>
+          <p className="lead mb-4 fs-5">:Say goodbye to distractions and immerse yourself in your audio with our ANC technology. Whether youre on a noisy commute or in a bustling office, ANC blocks out external sounds for uninterrupted enjoyment.</p>
         </div>
       </div>
      );

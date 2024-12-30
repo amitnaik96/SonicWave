@@ -22,7 +22,7 @@ const Reviews = () => {
                         <h5 className="font-weight-bold">Teresa May</h5>
                         <h6 className="fw-normal my-3">Music Enthusiast</h6>
                         <p className="mb-2">
-                            As a music lover, I've found the headset to be an absolute game-changer. The sound quality is unparalleled, delivering crisp highs, deep bass, and balanced mids.
+                            As a music lover, Ive found the headset to be an absolute game-changer. The sound quality is unparalleled, delivering crisp highs, deep bass, and balanced mids.
                         </p>
                     </div>
                     </div>
@@ -37,7 +37,7 @@ const Reviews = () => {
                         <h5 className="font-weight-bold">Maggie McLoan</h5>
                         <h6 className="fw-normal my-3">Gamer</h6>
                         <p className="mb-2">
-                        Having used this headset for gaming, I can confidently say it's a must-have for any serious gamer. The audio precision is remarkable, providing clear directional sound that enhances my gaming experience. 
+                        Having used this headset for gaming, I can confidently say its a must-have for any serious gamer. The audio precision is remarkable, providing clear directional sound that enhances my gaming experience. 
                         </p>
                     </div>
                     </div>
