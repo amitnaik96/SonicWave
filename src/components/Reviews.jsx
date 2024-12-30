@@ -6,7 +6,7 @@ const Reviews = () => {
                 <div className="col-md-10 col-xl-8 text-center">
                     <h3 className="display-6 fw-normal text-body-emphasis mb-4">Reviews</h3>
                     <p className="lead mb-5 fs-5">
-                    "Headset offers a seamless audio experience with its premium sound quality and comfortable design. Whether for music enthusiasts or avid gamers, its immersive features elevate every listening session."
+                    Headset offers a seamless audio experience with its premium sound quality and comfortable design. Whether for music enthusiasts or avid gamers, its immersive features elevate every listening session.
                     </p>
                 </div>
                 </div>
